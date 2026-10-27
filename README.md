@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Laiba Rajpoot 👋
 
-<!--
-**laibarajpoot498-web/laibarajpoot498-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer (MERN) | Building Live Production Applications
 
-Here are some ideas to get you started:
+I'm a passionate Full Stack Developer from Pakistan. I don't just write code, I build real, live businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Live Projects - My Work in Action
+
+#### 1. [SANEX Electronics - E-commerce Store](https://sanexelectronics.com)
+A full-featured electronics e-commerce platform.
+- Features: Product Catalog, Cart, Checkout, Payment Integration, Admin Panel
+- *Tech Stack:* React, Next.js, Node.js, MongoDB, Tailwind CSS
+
+#### 2. [MyDentistPK - Dental Clinic Platform](https://mydentistpk.com)
+A modern, responsive and SEO-optimized website for a dental clinic.
+- Features: Responsive Design, Services Showcase, Appointment Booking, SEO
+- *Tech Stack:* React, JavaScript, Tailwind CSS, HTML5
+
+#### 3. [E-Signature Maker - Online Tool](https://electronicsignaturemaker.com)
+A powerful online tool to create and download digital signatures instantly.
+- Features: Draw Signature, Type Signature, Canvas Drawing, Download as PNG/PDF
+- *Tech Stack:* JavaScript (ES6+), HTML5 Canvas API, CSS3
+
+---
+### 🛠️ Tech Stack
+
+*Frontend:* React.js | Next.js | JavaScript | HTML5 | CSS3 | Tailwind CSS
+*Backend:* Node.js | Express.js
+*Database:* MongoDB | MySQL
+*Tools:* Git | GitHub | VS Code | Vercel
+
+### 📫 Let's Connect!
+- *Email:* laibarajpoot498@gmail.com
+- *Portfolio:* [SANEX](https://sanexelectronics.com) | [MyDentistPK](https://mydentistpk.com) | [E-Signature](https://electronicsignaturemaker.com)
